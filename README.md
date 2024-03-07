@@ -15,7 +15,11 @@ python3 flask_server.py
 ```
 
 
-## This portion will be updated soon 
+## This portion will be updated soon.....
+
+![Image Description](image_url)
+
+
 ## Screenshots and video will be added soon
 
 ## Usage
