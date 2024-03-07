@@ -17,7 +17,7 @@ python3 flask_server.py
 
 ## This portion will be updated soon.....
 
-![Image Description](image_url)
+![Image Description](https://github.com/NaheedRayan/personal_assistant/blob/main/pictures/01.jpeg)
 
 
 ## Screenshots and video will be added soon
