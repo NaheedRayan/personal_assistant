@@ -1,5 +1,5 @@
-# personal_assistant
-Personal Assistant powered by LLM to execute task such as controlling IOT devices, surfing the web , Conversation ,etc
+# Gemini_Powered_Personal_assistant
+Personal Assistant powered by LLM to execute task such as controlling IOT devices, surfing the web , Conversation , Gathering News etc
 
 
 ## Installation
@@ -17,7 +17,7 @@ python3 flask_server.py
 
 ## This portion will be updated soon.....
 
-![Image Description](https://github.com/NaheedRayan/personal_assistant/blob/main/pictures/01.jpeg)
+![Image Description](pictures/01.jpeg)
 
 
 ## Screenshots and video will be added soon
