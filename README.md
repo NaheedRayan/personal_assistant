@@ -7,7 +7,7 @@ Personal Assistant powered by LLM to execute task such as
 - 🔄 etc.
 
 ## Video
-Will be updated soon......
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rfs8Olagu44/0.jpg)](https://www.youtube.com/watch?v=rfs8Olagu44)
 
 ## Screenshots
 Will be updated soon......
